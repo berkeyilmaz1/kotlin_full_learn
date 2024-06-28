@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">kotlin_dice_roller</string>
+    <string name="Roll">Roll</string>
+</resources>
