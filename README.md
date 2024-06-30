@@ -3,3 +3,5 @@
 ## Dice Roller
 
 ## Lemon Squeezer
+
+## Tip Calculator
